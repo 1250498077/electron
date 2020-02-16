@@ -31,7 +31,7 @@
   "homepage": "./",
   "build": {
     "appId": "cloudDoc",
-    "productName": "七牛云文档",
+    "productName": "文档",
     "copyright": "Copyright © 2019 ${author}",
     "files": [
       "build/**/*",
